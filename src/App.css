@@ -1,0 +1,35 @@
+p{
+    font-size: 14px;
+    color: #262626;
+}
+.section{
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.main-heading{
+    color: #f76c2f;
+    font-size: 26px;
+}
+.underline{
+    height: 4px;
+    width: 4rem;
+    background-color: #f76c2f;
+}
+.bg-c-light{
+    background-color: #f2f2f2;
+}
+.footer a{
+    color: #fff;
+    text-decoration: none;
+}
+.footer a:hover{
+    color: gray;
+    text-decoration: none;
+}
+.collapse .navbar-nav .nav-link{
+    display: inline-flex;
+    justify-content: flex-end;
+}
+img {
+    height: 3rem;
+}
